@@ -1,0 +1,4 @@
+.venv/
+gallery-dl/
+__pycache__/
+make_html.py
